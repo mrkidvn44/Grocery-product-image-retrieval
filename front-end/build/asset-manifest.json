@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b2f770a.css",
+    "main.js": "/static/js/main.257e098a.js",
+    "static/media/back_ground.png": "/static/media/back_ground.69a12894f64b24809804.png",
+    "static/media/SVN-Neusa.ttf": "/static/media/SVN-Neusa.d6c4baa315902c0da726.ttf",
+    "index.html": "/index.html",
+    "main.7b2f770a.css.map": "/static/css/main.7b2f770a.css.map",
+    "main.257e098a.js.map": "/static/js/main.257e098a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2f770a.css",
+    "static/js/main.257e098a.js"
+  ]
+}
